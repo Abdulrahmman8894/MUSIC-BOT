@@ -219,22 +219,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 Owner 💝",
+                            text="💝 المطور 💝",
                             url=f"https://t.me/DhrubaXD"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 Assistant",
+                            text="👨‍💻 البوت",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="Support",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            text="الدعم",
+                            url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 Help 🔰",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            text="🔰 المساعدة 🔰",
+                            url=f"https://t.me/SULTAN1_1B")
                    
                 ]
             ]
@@ -249,22 +249,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 Owner 💝",
+                            text="💝 المطور 💝",
                             url=f"https://t.me/DhrubaXD"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 Assistant",
+                            text="👨‍💻 البوت",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="Support",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            text="الدعم",
+                            url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 Help 🔰",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            text="🔰 المساعدة 🔰",
+                            url=f"https://t.me/SULTAN1_1B")
                    
                 ]
             ]
@@ -317,22 +317,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 Owner 💝",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="💝 المطور 💝",
+                            url=f"https://t.me/MR_X_N"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 Assistant",
+                            text="👨‍💻 البوت",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="Support",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            text="الدعم",
+                            url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 Help 🔰",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            text="🔰 المساعدة  🔰",
+                            url=f"https://t.me/SULTAN1_1B")
                    
                 ]
             ]
