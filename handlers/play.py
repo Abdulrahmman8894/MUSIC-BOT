@@ -157,7 +157,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/b8bc5495bd8a3e9ccb2d3.jpg"
+        thumb_name = "https://telegra.ph/file/80ea31cd8fe0e1cee54da.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -166,22 +166,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 Owner 💝",
-                            url=f"https://t.me/DhrubaXD"),
+                            text="💝 المطور 💝",
+                            url=f"https://t.me/MR_X_N"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 Assistant",
+                            text="👨‍💻 البوت ",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="Support",
-                            url=f"https://t.me/Official_K_LegendBot")
+                            text="الدعم",
+                            url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 Help 🔰",
-                            url=f"https://t.me/Legend_K_Userbot")
+                            text="🔰 المساعدة 🔰",
+                            url=f"https://t.me/SULTAN1_1B")
                    
                 ]
             ]
