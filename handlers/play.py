@@ -219,7 +219,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="💝 المطور 💝",
-                            url=f"https://t.me/DhrubaXD"),
+                            url=f"https://t.me/MR_X_N"),
                             
                     InlineKeyboardButton(
                             text="👨‍💻 البوت",
