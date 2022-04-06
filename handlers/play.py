@@ -165,21 +165,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 المطور 💝",
+                            text="💝 ᴅᴇᴠ 💝",
                             url=f"https://t.me/MR_X_N"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 البوت ",
+                            text="👨‍💻 ʙᴏᴛ 👨‍💻",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="الدعم",
+                            text="⚜️ ᴄʜᴀɴɴᴇʟ ⚜️",
                             url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 المساعدة 🔰",
+                            text="🔰 ɢʀᴏᴜᴘ 🔰",
                             url=f"https://t.me/SULTAN1_1B")
                    
                 ]
@@ -218,21 +218,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 المطور 💝",
+                            text="💝 ᴅᴇᴠ 💝",
                             url=f"https://t.me/MR_X_N"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 البوت",
+                            text="👨‍💻 ʙᴏᴛ⚜ 👨‍💻",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="الدعم",
+                            text="⚜️ ᴄʜᴀɴɴᴇʟ ⚜️",
                             url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 المساعدة 🔰",
+                            text="🔰 ɢʀᴏᴜᴘ 🔰",
                             url=f"https://t.me/SULTAN1_1B")
                    
                 ]
@@ -248,21 +248,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 المطور 💝",
+                            text="💝 ᴅᴇᴠ 💝",
                             url=f"https://t.me/DhrubaXD"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 البوت",
+                            text="👨‍💻 ʙᴏᴛ 👨‍💻",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="الدعم",
+                            text="⚜️ ᴄʜᴀɴɴᴇʟ ⚜️",
                             url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 المساعدة 🔰",
+                            text="🔰 ɢʀᴏᴜᴘ 🔰",
                             url=f"https://t.me/SULTAN1_1B")
                    
                 ]
@@ -316,21 +316,21 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="💝 المطور 💝",
+                            text="💝 ✯ᴅᴇᴠ  💝",
                             url=f"https://t.me/MR_X_N"),
                             
                     InlineKeyboardButton(
-                            text="👨‍💻 البوت",
+                            text="👨‍💻 ʙᴏᴛ 👨‍💻",
                             url=f"https://t.me/{bot_username}")
                ],
                 [
                     InlineKeyboardButton(
-                            text="الدعم",
+                            text="⚜️⚜️",
                             url=f"https://t.me/MR_X_N_2")
                ],
                [
                         InlineKeyboardButton(
-                            text="🔰 المساعدة  🔰",
+                            text="🔰   🔰",
                             url=f"https://t.me/SULTAN1_1B")
                    
                 ]
