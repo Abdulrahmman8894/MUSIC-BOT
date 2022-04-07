@@ -138,7 +138,7 @@ async def play(_, message: Message):
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"<i>Hey {user.first_name}, 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 🎸 𝐔𝐬𝐞𝐫𝐁𝐨𝐭 𝐈𝐬 𝐍𝐨𝐭 𝐈𝐧 𝐓𝐡𝐢𝐬 𝐂𝐡𝐚𝐭' 𝐀𝐬𝐤 𝐀𝐝𝐦𝐢𝐧 😎 𝐓𝐨 𝐒𝐞𝐧𝐝 /𝐏𝐥𝐚𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 😎 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 𝐓𝐨 𝐀𝐝𝐝 𝐈𝐭 𝐀𝐧𝐲 𝐇𝐞𝐥𝐩 𝐃𝐦 :- ✨ [❛-𝐌𝐫'Dhruba 🚬](https://t.me/DhrubaXD) ❤️🥀 
+            f"<i>Hey {user.first_name}, الحساب المساعد  🎸 ليس في هذه الدردشة اسأل المسؤول 😎 إرسال /𝐏𝐥𝐚𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 😎    𝐃𝐦 :- ✨ [❛-𝐌𝐫'Dhruba 🚬](https://t.me/DhrubaXD) ❤️🥀 
         return
     
     audio = (
@@ -271,7 +271,7 @@ async def play(_, message: Message):
 
         if (dur / 60) > DURATION_LIMIT:
             await lel.edit(
-                f"**❰ ° 𝐒𝐨𝐧𝐠 🎸 ° ❱ 𝐋𝐨𝐧𝐠𝐞𝐫 𝐓𝐡𝐚𝐧 {DURATION_LIMIT} 𝐌𝐢𝐧𝐮𝐭𝐞'𝐒 𝐀𝐫𝐞𝐧'𝐭 𝐀𝐥𝐥𝐨𝐰𝐞𝐝 𝐓𝐨 𝐏𝐥𝐚𝐲 ▶ ❤️🥀**"
+                f"**❰ ° الاغنية 🎸 ° ❱ الأطول من دقيقة {DURATION_LIMIT} غير مسموح بتشغيل ▶ ❤️🥀**"
             )
             return
         requested_by = message.from_user.first_name
@@ -307,7 +307,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             await lel.edit(
-                "**🌸° 𝐒𝐨𝐧𝐠 🎸 𝐍𝐨𝐭 😒 𝐅𝐨𝐮𝐧𝐝 𝐒𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 ° 🥀.**"
+                "**🌸° الاغنية 🎸 لم يتم   😒 العثور على مشكلة إملائية ° 🥀.**"
             )
             print(str(e))
             return
@@ -353,7 +353,7 @@ async def play(_, message: Message):
         position = await queues.put(chat_id, file=file_path)
         await message.reply_photo(
             photo="final.png",
-            caption="****❰ 𝐌𝐮𝐬𝐢𝐜'𝐗 ❘ 😈 ❱ الاغاني ❤️ مكان 💫🤟** {}**".format(position),
+            caption="****❰ موسيقى'X ❘ 😈 ❱ الاغاني ❤️ مكانه 💫🤟** {}**".format(position),
             reply_markup=keyboard,
         )
     else:
