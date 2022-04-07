@@ -280,7 +280,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit(
-                "✌𝐖𝐡𝐚𝐭'𝐒 𝐓𝐡𝐞 ❤️ 𝐒𝐨𝐧𝐠 🎸 𝐘𝐨𝐮 🎧 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐥𝐚𝐲 ▶ ❤️**"
+                "✌تريد ان تشغلها  ❤️ الاغنية 🎸 التي  🎧 تريد ان ▶ ❤️**"
             )
         await lel.edit("🔎")
         query = message.text.split(None, 1)[1]
